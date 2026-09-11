@@ -132,3 +132,12 @@ An application can contain vulnerabilities even when the developer did not write
 ## Disclaimer
 
 This project was created strictly for educational and security-learning purposes using an intentionally outdated dependency in a controlled local environment.
+## Evidence
+
+### Before Remediation
+
+![SCA audit before remediation](screenshots/npm-audit-before.png)
+
+### After Remediation
+
+![SCA audit after remediation](screenshots/npm-audit-after.png)
